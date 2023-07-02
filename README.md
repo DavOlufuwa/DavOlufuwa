@@ -14,9 +14,9 @@
 I'm David, a passionate web developer with a keen interest in React JS, TailwindCSS, Material UI, Firebase and Supabase. I am currently interested in open source, sharing my knowledge and learning from other developers.
 
 ## Skills
-- Programming Languages: HTML, CSS, Javascript
-- Frameworks/Libraries: Tailwind CSS, React JS, Material UI, SASS
-- Tools/Technologies: Supabase, Firebase, Sanity IO
+- HTML, CSS, Javascript
+- Tailwind CSS, React JS, Material UI, SASS
+- Supabase, Firebase, Sanity IO
 
 ## Projects
 - [My Portfolio](https://prodave.netlify.app): My portfolio, made with React JS and SASS for styling.
