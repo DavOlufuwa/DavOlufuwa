@@ -19,7 +19,7 @@ I'm David, a passionate web developer with a keen interest in React JS, Tailwind
 - Supabase, Firebase, Sanity IO
 
 ## Projects
-- [My Portfolio](https://prodave.netlify.app): My portfolio, made with React JS and SASS for styling.
+- [My Portfolio](https://olufuwadavid.netlify.app): My portfolio, made with React JS and SASS for styling.
 - [Crownex-store](https://crown-storex.netlify.app): An online store made with React, context API, Firebase for authentication.
 - [Shoppee-store](https://shop-ee.netlify.app): An E-commerce store made with react,redux, tailwind-css and react-router dom .
 
