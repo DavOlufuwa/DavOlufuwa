@@ -26,6 +26,6 @@ I'm David, a passionate web developer with a keen interest in React JS, Tailwind
 Feel free to explore the repositories for more projects and their details.
 
 ## Contact Me
-Feel free to reach out to me via email at [davolufuwa@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/davidolufuwa). I'm open to collaboration, discussions, and new opportunities.
+Feel free to reach out to me via email at [davolufuwa@gmail.com](davolufuwa@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/davidolufuwa). I'm open to collaboration, discussions, and new opportunities.
 
 I look forward to connecting with you!
