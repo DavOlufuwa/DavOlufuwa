@@ -21,8 +21,8 @@ I'm David, a passionate web developer with a keen interest in React JS, Tailwind
 ## Projects
 - [My Portfolio](https://olufuwadavid.netlify.app): My portfolio, made with React JS and SASS for styling.
 - [Crownex-store](https://crown-storex.netlify.app): An online store made with React, context API, Firebase for authentication.
-- [Shoppee-store](https://shop-ee.netlify.app): An E-commerce store made with react,redux, tailwind-css and react-router dom .
-
+- [Motorluxe](https://motorluxe.vercel.app): An E-commerce car store made with typescript, react, email js, zustand, tailwind-css and react-router dom.
+  
 Feel free to explore the repositories for more projects and their details.
 
 ## Contact Me
